@@ -1,31 +1,65 @@
-# (Application Name)
+# Template-Repo
 
-#### (Brief Description of Application)
+#### This is a template for setting up testing enviroment for different projects.
 
-#### By (Your Name Here)
+#### By Shaun Kent
 
 ## Technologies Used
 
-* _List all_
-* _the major technologies_
-* _you used in your project_
-* _here_
+* Node Package Manager (npm)
+
+* ESLint
+
+* Webpack
+
+* JQuery
+
+* Popper
+
+* Bootstrap
+
+* Jest
 
 ## Description
 
+_This template was designed to be a starting point for new projects when setting up a stable testing enviroment for applications._
+
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* Go to the template repository using this link: https://github.com/SKona306/template-repo
+
+* Click the green button in the top right corner that says: `Use this template`
+
+* When prompted enter repo name and description and then click green button at the bottom.
+
+* Click the green button in the top right of the repo that says: `code`
+
+* Copy the HTTPS link.
+
+* In command line cd into new directory for project.
+
+* In command line enter: `git init`
+
+* In command line enter: `git remote add [initial] https://github.com/SKona306/template-repo`
+
+* In command line enter: `git clone [HTTPS link]
+
+* In command line enter: `code .`
+
+* In command line enter: `cd [project folder containing all the files]`
+
+* In command line enter: `npm install`
+
+
 
 ## Known Bugs
 
-* _Any known issues_
-* _should go here_
+
 
 ## License
 
+[MIT](https://choosealicense.com/licenses/mit/)
+
 ## Contact Information
+
+* Email: shaunkent81@gmail.com
